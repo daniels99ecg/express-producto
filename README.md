@@ -46,7 +46,7 @@ $ npx sequelize-cli db:migrate
 Una vez que las migraciones hayan sido exitosamente aplicadas, puedes iniciar la aplicación
 
 ```bash
-$ ng serve
+$ npm run dev
 ```
 La aplicación estará disponible en http://localhost:3001/item
 
